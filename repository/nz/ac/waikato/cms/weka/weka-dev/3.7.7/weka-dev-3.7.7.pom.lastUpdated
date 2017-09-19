@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Sep 17 23:31:17 ICT 2017
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1505665877214
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact nz.ac.waikato.cms.weka\:weka-dev\:pom\:3.7.7 from/to central (https\://repo.maven.apache.org/maven2)\: C\:\\Users\\coinh\\.m2\\repository\\nz\\ac\\waikato\\cms\\weka\\weka-dev\\3.7.7\\aether-e7654683-c30f-41d4-8337-2dad1e54eb67-weka-dev-3.7.7.pom-in-progress (The system cannot find the file specified)

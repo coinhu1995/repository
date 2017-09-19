@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue May 23 20:20:19 ICT 2017
+http\://repo.spring.io/milestone/.error=
+http\://repo.spring.io/snapshot/.lastUpdated=1495545619114
+http\://repo.spring.io/snapshot/.error=
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1495545619992
+http\://repo.spring.io/milestone/.lastUpdated=1495545619463
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.hibernate\:hibernate-validator-parent\:pom\:5.4.1.Final from/to central (https\://repo.maven.apache.org/maven2)\: C\:\\Users\\coinh\\.m2\\repository\\org\\hibernate\\hibernate-validator-parent\\5.4.1.Final\\aether-ce5cf947-5202-44e6-8ed0-ebecf8ba9f77-hibernate-validator-parent-5.4.1.Final.pom-in-progress (The system cannot find the file specified)

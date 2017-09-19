@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Sep 17 23:31:14 ICT 2017
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1505665874480
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact net.sf.squirrel-sql.thirdparty-non-maven\:java-cup\:pom\:0.11a from/to central (https\://repo.maven.apache.org/maven2)\: C\:\\Users\\coinh\\.m2\\repository\\net\\sf\\squirrel-sql\\thirdparty-non-maven\\java-cup\\0.11a\\aether-85812b0f-fe9c-4725-8fce-71848ff3f3db-java-cup-0.11a.pom-in-progress (The system cannot find the file specified)

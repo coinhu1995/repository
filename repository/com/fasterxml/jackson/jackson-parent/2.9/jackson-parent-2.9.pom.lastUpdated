@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue May 23 20:19:36 ICT 2017
+http\://repo.spring.io/milestone/.error=
+http\://repo.spring.io/snapshot/.lastUpdated=1495545575819
+http\://repo.spring.io/snapshot/.error=
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1495545576886
+http\://repo.spring.io/milestone/.lastUpdated=1495545576178
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.fasterxml.jackson\:jackson-parent\:pom\:2.9 from/to central (https\://repo.maven.apache.org/maven2)\: C\:\\Users\\coinh\\.m2\\repository\\com\\fasterxml\\jackson\\jackson-parent\\2.9\\aether-901a127e-2c6e-41bc-b0bd-5991caef22bc-jackson-parent-2.9.pom-in-progress (The system cannot find the file specified)
